@@ -1,17 +1,17 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://www.youtube.com/watch?v=NkMmAY7vu_k
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1oicu_Q9vWgZMyJB2u24DV09Xe6rJ6n3PyauBHy8ewss/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+Znet: Deep Learning Approach for 2D MRI Brain Tumor Segmentation
 
 Link to the paper:
-https://ieeexplore......
+https://ieeexplore.ieee.org/abstract/document/9779760
 
 Group Number:
-0
+35
 
 Individual Submitter:
-12345678 Name A
+20101022 Name Farjana Alam
